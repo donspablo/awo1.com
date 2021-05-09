@@ -1,5 +1,5 @@
 ---
-title: 'awo1.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 'awo1.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "awo1.com is under construction."
 ---
 
